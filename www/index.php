@@ -6,7 +6,7 @@
 		
 		<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
 		
-		<script type="text/javascript" src="js/Three.js"></script>
+		<script type="text/javascript" src="js/lib/Three.js"></script>
 		<script type="text/javascript" src="a.js"></script>
 		
 
